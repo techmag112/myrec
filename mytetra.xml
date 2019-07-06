@@ -6,7 +6,12 @@
   <node crypt="" id="156241682155gsh7t50r" name="Рецепты">
    <node crypt="" id="156241863251sgu8xg2n" name="Салаты">
     <recordtable>
-     <record id="1562418723pwxr0ahort" name="Снежная королева" author="" url="" tags="" ctime="20190706161203" dir="1562418723mspc5zrxni" file="text.html"/>
+     <record id="1562418723pwxr0ahort" name="Снежная королева" author="" url="" tags="салат, крабовые палочки, снежная, королева" ctime="20190706161203" dir="1562418723mspc5zrxni" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1562421363oxzamv7qfp" name="Десерты">
+    <recordtable>
+     <record id="1562422424atqyqkc1l8" name="Панна котта" author="" url="" tags="панна котта, сливки, охлажденный" ctime="20190706171344" dir="1562422424tnik08ylww" file="text.html"/>
     </recordtable>
    </node>
   </node>
