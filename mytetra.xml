@@ -15,6 +15,11 @@
      <record id="1562418723pwxr0ahort" name="Снежная королева" author="" url="" tags="салат, арахис, крабовые палочки, снежная королева" ctime="20190706161203" dir="1562418723mspc5zrxni" file="text.html" block="1"/>
     </recordtable>
    </node>
+   <node crypt="" id="1618340933fehx7ro6fd" name="Заправки">
+    <recordtable>
+     <record id="1618589967kgjh1c1i8o" name="Йогуртовый соус с огурцом и чесноком (цацики)" author="" url="" tags="соус, йогурт" ctime="20210416191927" dir="1618589967xxbjlqbhac" file="text.html" block=""/>
+    </recordtable>
+   </node>
    <node crypt="" id="1562421363oxzamv7qfp" name="Десерты">
     <recordtable>
      <record id="1562422424atqyqkc1l8" name="Панна котта" author="" url="" tags="панна котта, сливки, охлажденный" ctime="20190706171344" dir="1562422424tnik08ylww" file="text.html" block="1"/>
@@ -22,7 +27,6 @@
      <record id="15957627808t23n5j3ot" name="Пирог с вишней и орехами" author="" url="" tags="пирог, вишня, орехи" ctime="20200726142620" dir="1595762780lazial2s1u" file="text.html" block="1"/>
     </recordtable>
    </node>
-   <node crypt="" id="1618340933fehx7ro6fd" name="Заправки"/>
   </node>
  </content>
 </root>
