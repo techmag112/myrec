@@ -21,10 +21,11 @@
      <record id="16592112342d1185deba" name="Норвежский селедочный салат" author="" url="" tags="" ctime="20220730230034" dir="1659211234c0usdy38wo" file="text.html" block="1"/>
     </recordtable>
    </node>
-   <node crypt="" id="1618340933fehx7ro6fd" name="Заправки">
+   <node crypt="" id="1618340933fehx7ro6fd" name="Заправки и соусы">
     <recordtable>
      <record id="1618589967kgjh1c1i8o" name="Йогуртовый соус с огурцом и чесноком (цацики)" author="" url="" tags="заправка, йогурт" ctime="20210416191927" dir="1618589967xxbjlqbhac" file="text.html" block="1"/>
      <record id="1680891201j9eo8jt3n1" name="Заправка горчичная (малоколорийная замена майонеза)" author="" url="" tags="заправка майонез" ctime="20230407211321" dir="1680891201xofbjepau0" file="text.html" block="1"/>
+     <record id="168192249141u532i4gb" name="Зеленый соус к шашлыку" author="" url="" tags="соус киви шашлык" ctime="20230419194131" dir="1681922491qbsysclob4" file="text.html" block="1"/>
     </recordtable>
    </node>
    <node crypt="" id="1562421363oxzamv7qfp" name="Десерты">
