@@ -27,16 +27,16 @@
      <record id="1680891201j9eo8jt3n1" name="Заправка горчичная (малоколорийная замена майонеза)" author="" url="" tags="заправка майонез" ctime="20230407211321" dir="1680891201xofbjepau0" file="text.html" block="1"/>
     </recordtable>
    </node>
+   <node crypt="" id="1665066256jciykoejqa" name="Закуски">
+    <recordtable>
+     <record id="1665066272rnb6mpqniy" name="Капуста по-грузински" author="" url="" tags="квашенная капуста" ctime="20221006172432" dir="16650662727niqe2jyuz" file="text.html" block=""/>
+    </recordtable>
+   </node>
    <node crypt="" id="1562421363oxzamv7qfp" name="Десерты">
     <recordtable>
      <record id="1562422424atqyqkc1l8" name="Панна котта" author="" url="" tags="панна котта, сливки, охлажденный" ctime="20190706171344" dir="1562422424tnik08ylww" file="text.html" block="1"/>
      <record id="157943810627jmgsc0bo" name="Тайяки" author="" url="" tags="" ctime="20200119154826" dir="1579438106g65vebnpp2" file="text.html" block="1"/>
      <record id="15957627808t23n5j3ot" name="Пирог с вишней и орехами" author="" url="" tags="пирог, вишня, орехи" ctime="20200726142620" dir="1595762780lazial2s1u" file="text.html" block="1"/>
-    </recordtable>
-   </node>
-   <node crypt="" id="1665066256jciykoejqa" name="Закуски">
-    <recordtable>
-     <record id="1665066272rnb6mpqniy" name="Капуста по-грузински" author="" url="" tags="" ctime="20221006172432" dir="16650662727niqe2jyuz" file="text.html" block="1"/>
     </recordtable>
    </node>
   </node>
