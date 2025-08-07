@@ -19,6 +19,7 @@
      <record id="1659203917sbuxv7lh6d" name="Американский картофельный салат" author="" url="" tags="салат картофель быстро" ctime="20220730205837" dir="1659203917vvp86cly5f" file="text.html" block="1"/>
      <record id="16592076442wzw2mxzii" name="Уолдорф" author="" url="" tags="" ctime="20220730220044" dir="1659207644fbejeu0kl2" file="text.html" block="1"/>
      <record id="16592112342d1185deba" name="Норвежский селедочный салат" author="" url="" tags="" ctime="20220730230034" dir="1659211234c0usdy38wo" file="text.html" block="1"/>
+     <record id="1754491143g3ad9lrxpy" name="Салат с консервированным тунцом" author="" url="" tags="" ctime="20250806173903" dir="1754491143e8zwx5z27w" file="text.html" block="1"/>
     </recordtable>
    </node>
    <node crypt="" id="1618340933fehx7ro6fd" name="Заправки">
@@ -29,7 +30,7 @@
    </node>
    <node crypt="" id="1665066256jciykoejqa" name="Закуски">
     <recordtable>
-     <record id="1665066272rnb6mpqniy" name="Капуста по-грузински" author="" url="" tags="квашенная капуста" ctime="20221006172432" dir="16650662727niqe2jyuz" file="text.html" block=""/>
+     <record id="1665066272rnb6mpqniy" name="Капуста по-грузински" author="" url="" tags="квашенная капуста" ctime="20221006172432" dir="16650662727niqe2jyuz" file="text.html" block="1"/>
     </recordtable>
    </node>
    <node crypt="" id="1562421363oxzamv7qfp" name="Десерты">
